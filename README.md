@@ -54,7 +54,7 @@ Example Movie JSON object:
     "lastname": "Doe"
   }
 }
-
+```
 # Contributions
 
 Contributions are most welcomed! If you find any issues or want to add new features, feel free to open a pull request.
